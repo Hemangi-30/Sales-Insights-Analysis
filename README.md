@@ -14,3 +14,7 @@ Top 5 customers and products
 Interactive slicers for year and month filtering
 
 🔍 Built using Power BI with a focus on data visualization, usability, and business intelligence.
+
+<a href="https://github.com/Hemangi-30/Sales-Insights-Analysis/blob/main/Dashboard.jpg"> View Dashboard </a>
+
+<img src="https://github.com/Hemangi-30/Sales-Insights-Analysis/blob/main/Dashboard.jpg"/>
