@@ -8,11 +8,11 @@ using MYsql Database import the dataset
 
 ## Key Features:
 
--Total Revenue & Sales Quantity KPIs
--Revenue trends over time
--Market-wise and product-wise performance
--Top 5 customers and products
--Interactive slicers for year and month filtering
+<p>Total Revenue & Sales Quantity KPIs </p>
+<p>Revenue trends over time</p>
+<p>Market-wise and product-wise performance</p>
+<p>Top 5 customers and products</p>
+<p>Interactive slicers for year and month filtering</p>
 
 🔍 Built using Power BI with a focus on data visualization, usability, and business intelligence.
 
