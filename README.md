@@ -19,3 +19,7 @@ using MYsql Database import the dataset
 <a href="https://github.com/Hemangi-30/Sales-Insights-Analysis/blob/main/Dashboard.jpg"> View Dashboard </a>
 
 <img src="https://github.com/Hemangi-30/Sales-Insights-Analysis/blob/main/Dashboard.jpg"/>
+
+## Database Design of this project :
+
+<img src="https://github.com/Hemangi-30/Sales-Insights-Analysis/blob/main/Screenshot%202025-04-08%20184735.png"/>
